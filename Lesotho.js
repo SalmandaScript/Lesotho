@@ -66,6 +66,19 @@ color: "teal"
 });
 });
 
+
+//previous page 
+function kenya(){
+open("https://salmandascript.github.io/Kenya/Kenya.html");
+}
+
+//previous page 
+function liberia(){
+open("https://salmandascript.github.io/Liberia/Liberia.html");
+}
+
+
+
 //quizz questions code 
 function checkAnswer()
   {
